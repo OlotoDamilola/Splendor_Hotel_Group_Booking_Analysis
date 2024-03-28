@@ -24,6 +24,8 @@ After importing my data into power query, I checked for the validity of my data 
 
 # Data Analysis and Visualizations 
 
+![rev_rev_loss](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/c651b60b-a3af-4ad0-9c91-8509fa7be204)
+
 
 
 
