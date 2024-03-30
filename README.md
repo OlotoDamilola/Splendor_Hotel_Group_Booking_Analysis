@@ -26,8 +26,7 @@ After importing my data into power query, I checked for the validity of my data 
 
 ![rev_rev_loss](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/c651b60b-a3af-4ad0-9c91-8509fa7be204)
 
-
-
+For the years 2015 - 2017 revenue reached its highest peak in August 2017 of $1,985,171 also with its highest of $1,363,454 due to cancellation. In 2016, it was seen that revenue started to rise at the start of the second quarter with the majority of the revenue coming in July - September. At $291,521, January 2016 brought in the least amount of money. November 2015 recorded the least revenue loss of $99,947 with a total revenue of $363,041.
 
 
 
