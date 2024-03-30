@@ -24,9 +24,25 @@ After importing my data into power query, I checked for the validity of my data 
 
 # Data Analysis and Visualizations 
 
+A) REVENUE
+
 ![rev_rev_loss](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/c651b60b-a3af-4ad0-9c91-8509fa7be204)
 
 For the years 2015 - 2017 revenue reached its highest peak in August 2017 of $1,985,171 also with its highest of $1,363,454 due to cancellation. In 2016, it was seen that revenue started to rise at the start of the second quarter with the majority of the revenue coming in July - September. At $291,521, January 2016 brought in the least amount of money. November 2015 recorded the least revenue loss of $99,947 with a total revenue of $363,041.
+
+![top country](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/5abac83b-7347-4b25-aadb-cdaeccbe3ce6) 
+
+175 different nations are represented among the thousands of visitors the hotel has on file. Visitors from Portugal brought in the highest amount of money for the organisation, bringing in $9,037,388 total and average $2.9 million a year. The top 7 nations include; United Kingdom ($4,152,064), France ($3,100,696), Spain ($2,282,030), Germany ($2,068,354), Ireland ($1,240,002), Italy ($866,439). The least generating nations include; Madagascar ($44), American Samoa ($72), Burkina Faso ($80.3), Mali ($89), Sechelles ($89.25). 
+
+![rev deposit](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/17d4a8a2-9d5b-4f80-8c51-2f066b8b4ac9) 
+
+It was observed that no deposit type produced the most revenue of $25,950,163, with transient customers accounting for 95% of this revenue. 
+
+![rev channel](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/d5f428ee-1171-437b-8a2c-7baf1a123273)
+
+
+
+
 
 
 
