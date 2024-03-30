@@ -48,7 +48,7 @@ Bookings are made very early in the year. For city hotel, January and February h
 
 B) CUSTOMERS
 
-![ADR rev month](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/bd5039ab-c9d7-40c3-b045-b47eaae08eed) 
+![ADR rev month](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/2b4f6b3a-299d-4ba2-a324-9dbb1cff5083)
 
 
 
