@@ -46,9 +46,19 @@ Online travel agent generated the most revenue at $17,255,123 where 65% of this 
 
 Bookings are made very early in the year. For city hotel, January and February has the most number of bookings at 10738 & 9008. Additionally, it was observed that bookings made by transient customers are most likely to occur in January or February. Contract, group and transient party customers make most of their bookings in October, which made it the third month with most booking at 8032. This is comparable to resort hotel, however the only customer likely to make a post in October is transient party customers.
 
+
 B) CUSTOMERS
 
 ![ADR rev month](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/2b4f6b3a-299d-4ba2-a324-9dbb1cff5083)
+
+An increase in average daily rate correlated with an increase in the total revenue. Average daily rate reached its peak of $140 in August. For city hotel, average daily rate reached its peak of $122 in May while resort maintained its peak in August at $186. 
+
+![ADR cancel month](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/8b7291ee-a18e-48be-a3ec-c7f0c62faa05) 
+
+
+
+
+
 
 
 
