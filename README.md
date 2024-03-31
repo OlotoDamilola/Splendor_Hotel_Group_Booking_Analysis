@@ -55,6 +55,13 @@ An increase in average daily rate correlated with an increase in the total reven
 
 ![ADR cancel month](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/8b7291ee-a18e-48be-a3ec-c7f0c62faa05) 
 
+An increase in average daily rate correlated with an increase in cancellation. The summer months saw the greatest number of cancellations, with August having the highest percentage at 11.9%. In October 2016, the 12.4% cancellation rate came as a shock. This occured due to 11.5% cancellation rate from transient customers who made their booking earlier in the year. 
+
+![rev customer](https://github.com/OlotoDamilola/Splendor_Hotel_Group_Booking_Analysis/assets/109422215/d683a014-0ec7-433c-ac52-c484db02e897)
+
+
+
+
 
 
 
