@@ -89,7 +89,7 @@ d) In August 2017, resort hotel saw its greatest revenue of $1.1M and its larges
 e) The months with the longest duration of stay for all customers were June, July and September. In September 2016, contract customer had the longest average stay of 10 days.
 f) All lead time group revenue increases in relation to each other which shows there is a positive correlation between the lead time and customer type.
 
-# Recommendations
+# RECOMMENDATIONS
 
 a) Reducing the average daily rate in the summer (July - September) might decrease the cancellation rate.
 b) Creating a system that offers discount to lead time more than 90 days for summer bookings.
