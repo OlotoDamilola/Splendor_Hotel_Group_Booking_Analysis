@@ -80,7 +80,7 @@ In 2015, all lead time groups combined generated an average of $198,530 in reven
 
 There was a significant decline in revenue due to the high cancellation rate for group longer than 90 days between July and November of 2015. May 2017 saw group longer than 90 days hit its highest cancellation rate of 4.37% leaving the revenue at $970,836. It further reduced towards towards the end of the year and settled at 2.84%. All other lead time grou had a cancellation rate lesser than 1%. However, the lesser the cancellation, the higher the revenue generated. 
 
-# INSIGHTS 
+# Insights
 
 a) Revenue increased steadily between 2015 and 2017, reaching a peak of $9.3M in July and August and a peak loss of $5.2M. Portugal is top revenue generating nation, bringing in $2.9M annually.
 
@@ -95,7 +95,7 @@ e) The months with the longest duration of stay for all customers were June, Jul
 f) All lead time group revenue increases in relation to each other which shows there is a positive correlation between the lead time and customer type.
 
 
-# RECOMMENDATIONS
+# Recommendations
 
 a) Reducing the average daily rate in the summer (July - September) might decrease the cancellation rate.
 
