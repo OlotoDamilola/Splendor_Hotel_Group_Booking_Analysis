@@ -1,7 +1,7 @@
 # Splendor_Hotel_Group_Booking_Analysis
 # Analyzing data in Power Query and Power BI
 # Introduction
-This is a personal related project. I analyzed a dataset from Splendor Hotel Group booking data. The task involves a thorough analysis of a comprehensive dataset featuring intricate details of bookings, guest demographics, distribution channels and financial metrics. The dataset contained 199,390 rows and 17 columns. The following variables are included in the detailed data file:
+This is a personal related project. I analyzed a dataset from Splendor Hotel Group booking data (2015 - 2017). The task involves a thorough analysis of a comprehensive dataset featuring intricate details of bookings, guest demographics, distribution channels and financial metrics. The dataset contained 199,390 rows and 17 columns. The following variables are included in the detailed data file:
 
 a) Hotel: Type or name of the hotel within the Splendor Hotel Group.
 
